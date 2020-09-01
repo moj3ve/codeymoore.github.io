@@ -2,7 +2,7 @@
     "name": "Codey Moore Repo",
     "description": "Rip Lil Peep",
     "tint": "#FF000",
-    "cname": "codeymoore.github.io",
+    "cname": "codeymoore.github.io/repo",
     "maintainer": {
     "name": "Codey Moore",
     "email": "codeymooredev@gmail.com"
@@ -14,7 +14,7 @@
 },
 {
     "name": "Website",
-    "url": "https://codeymoore.github.io/"
+    "url": "https://codeymoore.github.io/repo/"
 }
 ],
     "automatic_git": "false",
